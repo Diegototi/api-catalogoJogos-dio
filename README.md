@@ -28,7 +28,7 @@ Seguem as configurações neessárias para visualizar a aplicação em sua máqu
 1. Pelo terminal, acesse o diretório em que deseja ter o repositório clonado e execute o comando a seguir.
 ```bash
 # clonando o repositório
-git clone https://github.com/Diegototi/series-console-app.git
+git clone https://github.com/Diegototi/api-catalogoJogos-dio.git
 ```
 
 ### :beginner: Iniciando a aplicação
@@ -38,8 +38,8 @@ git clone https://github.com/Diegototi/series-console-app.git
 
 Esse projeto foi desenvolvido utilizando os seguintes recursos:
 
--  [Vs Code](https://code.visualstudio.com/download);
--  [NET core - Versão 5.0.302](https://dotnet.microsoft.com/download);
+-  [Visual Studio 2019](https://visualstudio.microsoft.com/pt-br/downloads/);
+-  [NET core - Versão 5.0.302](https://dotnet.microsoft.com/download).
 
 ### :memo: License
 Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/Diegototi/series-console-app/blob/main/LICENSE) para mais informações.
